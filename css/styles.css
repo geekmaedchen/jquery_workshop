@@ -79,6 +79,10 @@ content {
   margin-bottom: 10px;
 }
 
+.highlight {
+  border: 5px solid #ffff00;
+}
+
 footer {
   height: 50px;
   width: 100%;
